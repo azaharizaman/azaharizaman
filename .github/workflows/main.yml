@@ -23,14 +23,13 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year         
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, JavaScript, Ruby
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: azaharizsaman/octobercms
+          plugin_repositories_featured: azaharizsaman/october
           plugin_stars: yes
+          plugin_stars_limit: 3
           plugin_starlists: yes
           plugin_starlists_languages: yes
-          plugin_stars_limit: 3
           plugin_traffic: yes
           plugin_habits: yes
           plugin_habits_from: 250
