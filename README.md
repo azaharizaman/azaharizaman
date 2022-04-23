@@ -6,3 +6,4 @@ Lets see some stats instead...
 
 ### Stats
 
+![Metrics](/github-metrics.svg)
