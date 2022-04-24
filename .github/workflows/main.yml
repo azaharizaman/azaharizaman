@@ -25,7 +25,7 @@ jobs:
           plugin_languages: yes
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: azaharizsaman/october
+          plugin_repositories_featured: nexusenvision/nex-erp
           plugin_stars: yes
           plugin_stars_limit: 3
           plugin_starlists: yes
