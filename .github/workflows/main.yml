@@ -9,6 +9,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -19,7 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_animations: yes
-          config_timezone: Asia\Kuching
+          config_timezone: Asia/Kuching
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year         
           plugin_languages: yes
