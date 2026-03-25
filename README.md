@@ -1,4 +1,4 @@
-# Azahar Izaman
+# Azahari Zaman
 
 PHP backend developer focused on practical web applications, dependable systems, and straightforward delivery.
 
